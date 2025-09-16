@@ -27,8 +27,8 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Code Blocks](https://img.shields.io/badge/-Code%Blocks-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Apache Netbeans](https://img.shields.io/badge/-Apache%Netbeans-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Code Blocks](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Apache Netbeans](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
 
