@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando Bacharelado em Ciência da Computação no IFSP - Presidente Epitácio.
-- 🌱 Aprendendo mais sobre React, Python e Ciência de Dados.
+- 🌱 Aprendendo mais sobre React, Python, Ciência de Dados e cibersegurança.
 
 ## Minhas Skills
 
@@ -38,6 +38,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yudi-onimaru-668373302/)](https://www.linkedin.com/in/yudi-onimaru-668373302/)
 [![Gmail Badge](https://img.shields.io/badge/-onimaru.yudi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onimaru.yudi@gmail.com)](mailto:onimaru.yudi@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/oniyudi/)
