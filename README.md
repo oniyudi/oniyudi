@@ -38,6 +38,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yudi-onimaru-668373302/)](https://www.linkedin.com/in/yudi-onimaru-668373302/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yudi-onimaru-668373302)
 [![Gmail Badge](https://img.shields.io/badge/-onimaru.yudi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onimaru.yudi@gmail.com)](mailto:onimaru.yudi@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/oniyudi/)
