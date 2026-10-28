@@ -1,6 +1,10 @@
-## Sobre mim
+## Um pouco sobre mim...
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+Salve, sou estudante de Bacharelado em Ciência da Computação e formação técnica em informática, focando meus estudos na área de ciência de dados, devOps e cibersegurança. Mas no decorrer de meus estudos pude ter contato e desenvolver algumas aplicações back e front end para o grupo de pesquisa Terra em Bytes do IFSP Campus Presidente Epitácio, criando suluções sólidas em TypeScript, API REST, React, Python, etc.
+
+No decorrer de minha tragetória acadêmica, consolidei bases para o desenvolvimento de sistemas baseados em PHP, Java e JavaScript com Angular, fazendo o armazenamento dos dados em bancos relacionais MySql. 📚
+
+sou fascinado em entender como as técnologias do mundo funcionam, indo desde os algoritmos que a compoem até como se dá as interações entre elas. Procuro por novidades
 - 🎓 Cursando Bacharelado em Ciência da Computação no IFSP - Presidente Epitácio.
 - 🌱 Aprendendo mais sobre React, Python, Ciência de Dados e cibersegurança.
 
@@ -40,4 +44,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yudi-onimaru-668373302)
 [![Gmail Badge](https://img.shields.io/badge/-onimaru.yudi@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onimaru.yudi@gmail.com)](mailto:onimaru.yudi@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/oniyudi/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yudi_onimaru/)
