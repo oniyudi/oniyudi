@@ -37,9 +37,7 @@ sou fascinado em entender como as técnologias do mundo funcionam, indo desde os
 
 <br/>
 
-<a href="https://github.com/oniyudi" title="Perfil do Yudi Onimaru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oniyudi&theme=dracula&show_icons=true" />
-</a>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=oniyudi&theme=dracula&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Onde me encontrar
 
