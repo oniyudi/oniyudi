@@ -4,7 +4,7 @@ Salve, sou estudante de Bacharelado em Ciência da Computação e formação té
 
 No decorrer de minha tragetória acadêmica, consolidei bases para o desenvolvimento de sistemas baseados em PHP, Java e JavaScript com Angular, fazendo o armazenamento dos dados em bancos relacionais MySql. 📚
 
-sou fascinado em entender como as técnologias do mundo funcionam, indo desde os algoritmos que a compoem até como se dá as interações entre elas. Procuro por novidades
+sou fascinado em entender como as técnologias do mundo funcionam, indo desde os algoritmos que a compoem até como se dá as interações entre elas. Procuro por novidades na área tech, procurando estar sempre atualizado sobre as novas tendências e no constante aprendizado.
 - 🎓 Cursando Bacharelado em Ciência da Computação no IFSP - Presidente Epitácio.
 - 🌱 Aprendendo mais sobre React, Python, Ciência de Dados e cibersegurança.
 
@@ -13,6 +13,7 @@ sou fascinado em entender como as técnologias do mundo funcionam, indo desde os
 **Aplicações e dados**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
